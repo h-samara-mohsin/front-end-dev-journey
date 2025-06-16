@@ -1,0 +1,12 @@
+font-family, 
+form me error handling formtting,
+thank you page on submitting 
+hover:
+play button
+
+video button 
+
+tablet screen responsiveness
+-------xxxxxxxx------------
+class names,
+HTML scemantics,
